@@ -34,7 +34,7 @@ I keep this repo public because I believe progress matters more than perfection.
 If you’re scrolling here, thanks for being curious.  
 Now go check the **real stuff** instead 👇  
 
-👉 [name](link)  
+👉 [Learning Log](https://github.com/JaberHe/aws_learning_log)  
 
 
 ---
